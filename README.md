@@ -10,7 +10,7 @@ Neste projeto foi realizado uma ánalise das escolas que carecem de água, luz e
 
 02 - Bibliotecas: Pandas, matplotlib e numpy.
 
-03 - Microdados disponiveis em: http://portal.inep.gov.br/microdados
+03 - Microdados disponíveis em: http://portal.inep.gov.br/microdados
 
 04 - Jupyter notebook.
 
