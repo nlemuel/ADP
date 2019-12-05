@@ -2,6 +2,8 @@
 
 Neste projeto foi realizado uma ánalise das escolas que carecem de água, luz e esgoto entre 2014 e 2018 no Brasil.
 
+![Imagemgraph](https://user-images.githubusercontent.com/53242511/70248216-5b544900-1759-11ea-85b8-a1c16108bed1.png)
+
 # O que foi utilizado?
 
 01 - Python (versão 3.7).
@@ -12,7 +14,6 @@ Neste projeto foi realizado uma ánalise das escolas que carecem de água, luz e
 
 04 - Jupyter notebook.
 
-![Imagemgraph](https://user-images.githubusercontent.com/53242511/70248216-5b544900-1759-11ea-85b8-a1c16108bed1.png)
 
 
 
